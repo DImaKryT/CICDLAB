@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # CICDLab
+=======
+# CICDLAB
+>>>>>>> Dima
