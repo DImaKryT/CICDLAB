@@ -1,3 +1,4 @@
+import pygame
 game_finished = False
 
 def check_win(board):
