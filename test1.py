@@ -1,4 +1,4 @@
-a = 2
-b = 3
-if a + b == 5:
-    print("true")
+def test_sum_check():
+    a = 2
+    b = 3
+    assert a + b == 5
