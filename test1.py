@@ -1,4 +1,4 @@
 a = 2
 b = 3
-if (a + b == 5)
-print("testing2")
+if a + b == 5:
+    print("true")
